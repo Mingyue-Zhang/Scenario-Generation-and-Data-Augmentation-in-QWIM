@@ -1,3 +1,3 @@
-Main code: Modified_marketsimulator
+Main code: Modified_marketGenerator.ipynb
 
 Data: Capstone.csv
